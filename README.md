@@ -1,8 +1,8 @@
-# Pass the Ball Game
+# Multiplayer FootBall
 
 ## Overview
 
-"Pass the Ball" is a multiplayer game developed with Unity and Fusion. The goal is to pass the ball between players while managing smooth networking and UI interactions. This game demonstrates robust UI management and network integration to provide a seamless multiplayer experience.
+this is a multiplayer game developed with Unity and Fusion. The goal is to pass the ball between players while managing smooth networking and UI interactions. This game demonstrates robust UI management and network integration to provide a seamless multiplayer experience.
 
 ## Features
 
@@ -47,7 +47,7 @@ Preventing duplicate event listener registrations was essential to avoid memory 
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/Nithish-ac/Pass-The-Ball.git
+    gh repo clone sykthi/multiplayer-football-prototype
     ```
 
 2. **Open in Unity**: Open the project in Unity (recommended version X.X.X or higher).
@@ -56,12 +56,6 @@ Preventing duplicate event listener registrations was essential to avoid memory 
 
 4. **Build and Run**: Build and run the game to start playing.
 
-## Installation For Play
-
-1.**Download this Zip**:
-  https://github.com/Nithish-ac/Pass-The-Ball/releases/download/V0.1/PassTheBall.zip
-  
-2.**Extract And Play**
 
 ## Usage
 
